@@ -1,4 +1,4 @@
-# Hábitos
+# Kibo
 
 Aplicación Android nativa para crear y seguir hábitos diarios: rachas, calendario,
 recordatorios locales y estadísticas — sin cuenta, sin internet, 100% privada

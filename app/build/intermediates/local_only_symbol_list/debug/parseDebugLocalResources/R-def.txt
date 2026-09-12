@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_widget_check_off
+drawable ic_widget_check_on
+id widget_empty
+id widget_progress
+id widget_row_0
+id widget_row_0_check
+id widget_row_0_text
+id widget_row_1
+id widget_row_1_check
+id widget_row_1_text
+id widget_row_2
+id widget_row_2_check
+id widget_row_2_text
+id widget_row_3
+id widget_row_3_check
+id widget_row_3_text
+id widget_row_4
+id widget_row_4_check
+id widget_row_4_text
+id widget_title
+layout widget_habits
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string notification_channel_desc
+string notification_channel_name
+style Theme.Habitos
+style WidgetHabitRow
+style WidgetHabitRowCheck
+style WidgetHabitRowText
+xml backup_rules
+xml data_extraction_rules
+xml habit_widget_info

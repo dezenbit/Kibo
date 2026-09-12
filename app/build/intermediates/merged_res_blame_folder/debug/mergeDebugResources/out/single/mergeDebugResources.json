@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.dezenbit.habitos.app-debug-64:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.dezenbit.habitos.app-main-66:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.dezenbit.habitos.app-debug-64:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.dezenbit.habitos.app-main-66:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.dezenbit.habitos.app-debug-64:/xml_data_extraction_rules.xml.flat",
+        "source": "com.dezenbit.habitos.app-main-66:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.dezenbit.habitos.app-debug-64:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.dezenbit.habitos.app-main-66:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.dezenbit.habitos.app-debug-64:/drawable_ic_widget_check_off.xml.flat",
+        "source": "com.dezenbit.habitos.app-main-66:/drawable/ic_widget_check_off.xml"
+    },
+    {
+        "merged": "com.dezenbit.habitos.app-debug-64:/drawable_ic_widget_check_on.xml.flat",
+        "source": "com.dezenbit.habitos.app-main-66:/drawable/ic_widget_check_on.xml"
+    },
+    {
+        "merged": "com.dezenbit.habitos.app-debug-64:/layout_widget_habits.xml.flat",
+        "source": "com.dezenbit.habitos.app-main-66:/layout/widget_habits.xml"
+    },
+    {
+        "merged": "com.dezenbit.habitos.app-debug-64:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.dezenbit.habitos.app-main-66:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.dezenbit.habitos.app-debug-64:/xml_backup_rules.xml.flat",
+        "source": "com.dezenbit.habitos.app-main-66:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.dezenbit.habitos.app-debug-64:/xml_habit_widget_info.xml.flat",
+        "source": "com.dezenbit.habitos.app-main-66:/xml/habit_widget_info.xml"
+    }
+]

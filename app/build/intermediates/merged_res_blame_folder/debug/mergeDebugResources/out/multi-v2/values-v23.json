@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dezenbit.habitos.app-mergeDebugResources-62:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/home/andres/.gradle/caches/9.5.0/transforms/0f1c84ae46b0ae30d879f7fb20c0ec4d/transformed/work-runtime-2.9.1/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}

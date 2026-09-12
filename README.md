@@ -72,19 +72,6 @@ completamente offline.
 - Gradle 8.7 / Android Gradle Plugin 8.5.2 / Kotlin 1.9.24
 - Core library desugaring activado (para poder usar `java.time` desde API 24)
 
-## Notas importantes
-
-- **Antes de instalar esta versión**: el esquema de la base de datos cambió
-  (se agregaron categorías, metas numéricas, vacaciones, etc.). Si ya tenías
-  instalada una versión anterior, desinstala la app vieja o borra sus datos
-  antes de instalar esta build, o perderás el historial (la base se recrea
-  automáticamente, `fallbackToDestructiveMigration`).
-- El botón "Invitarme un café" en Acerca de apunta a un enlace de ejemplo
-  (`COFFEE_URL` en `AboutScreen.kt`). Reemplázalo por tu página real de Ko-fi,
-  Buy Me a Coffee o PayPal.me antes de publicar la app.
-- El widget de pantalla de inicio muestra hasta 5 hábitos del día. Se actualiza
-  al tocarlo, al abrir la app y marcar algo, y automáticamente cada ~30 minutos
-  (mínimo permitido por Android para `updatePeriodMillis`).
 
 ## Posibles mejoras futuras
 
